@@ -1,0 +1,1 @@
+This project is a basic recipe website. Showcases grasp of HTML and git skills.
